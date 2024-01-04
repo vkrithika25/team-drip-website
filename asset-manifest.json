@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b1fc444.css",
+    "main.js": "/static/js/main.10684f5b.js",
+    "static/js/787.567ad5f1.chunk.js": "/static/js/787.567ad5f1.chunk.js",
+    "static/media/KoHo-Regular.ttf": "/static/media/KoHo-Regular.c4fff7ba0f88b9de6590.ttf",
+    "static/media/KoHo-Bold.ttf": "/static/media/KoHo-Bold.0a93fad2b57e407c6be3.ttf",
+    "index.html": "/index.html",
+    "main.9b1fc444.css.map": "/static/css/main.9b1fc444.css.map",
+    "main.10684f5b.js.map": "/static/js/main.10684f5b.js.map",
+    "787.567ad5f1.chunk.js.map": "/static/js/787.567ad5f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b1fc444.css",
+    "static/js/main.10684f5b.js"
+  ]
+}
